@@ -52,7 +52,7 @@ export default function List() {
 
   return (
     <>
-      <h1 className="brand">레시피 갤러리</h1>
+      <h1 className="brand">천개의 레시피</h1>
 
       <div className="gallery">
         {data.recipes.map((r) => (
